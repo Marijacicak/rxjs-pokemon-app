@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": ["Grass", "Poison"],
+    "speed": 45
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": ["Grass", "Poison"],
+    "speed": 60
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": ["Grass", "Poison"],
+    "speed": 80
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": ["Fire"],
+    "speed": 65
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": ["Fire"],
+    "speed": 80
+  }
+]
